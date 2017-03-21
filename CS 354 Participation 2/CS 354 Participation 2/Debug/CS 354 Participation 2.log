@@ -1,0 +1,15 @@
+﻿  Source.cpp
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(64): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(77): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(114): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(123): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(134): warning C4018: '<': signed/unsigned mismatch
+d:\student data\desktop\cs-354 algorithms and ai\participation projects\cs 354 participation 2\cs 354 participation 2\source.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  CS 354 Participation 2.vcxproj -> D:\Student Data\Desktop\CS-354 Algorithms and AI\Participation Projects\CS 354 Participation 2\Debug\CS 354 Participation 2.exe
+  CS 354 Participation 2.vcxproj -> D:\Student Data\Desktop\CS-354 Algorithms and AI\Participation Projects\CS 354 Participation 2\Debug\CS 354 Participation 2.pdb (Partial PDB)
